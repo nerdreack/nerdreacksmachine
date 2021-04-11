@@ -19,7 +19,7 @@
 3. 24v 5A DC Voeding https://nl.aliexpress.com/item/32905696401.html
 4. 24v USB charger https://nl.aliexpress.com/item/33031240097.html
 5. USB Kabel, die past op je ESP32
-6. Raspberry Pi https://nl.aliexpress.com/item/1005001757645011.html
+6. ESP32 https://nl.aliexpress.com/item/1005001757645011.html
 7. Barrel Jacks https://nl.aliexpress.com/item/1005001703946081.html
 8. 18AWG Kabel https://nl.aliexpress.com/item/32903241720.html
 
