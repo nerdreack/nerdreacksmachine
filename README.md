@@ -59,6 +59,6 @@ Print alles op 0.2mm hoogte met minstens 15% infull met minstens 8 lagen
 Print 2 stuks op 0.2mm hoogte met minstens 15% infill
 
 
-### Stap 2: Eletronica 
+### Stap 2: Elektronica 
 
 #Wordt vervolgd
