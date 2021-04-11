@@ -50,7 +50,7 @@ Print 4 stuks met de moer op de buildplate
 
 #### 1.4 Montageplaat
 
-Print alles op 0.2mm hoogte met minstens 15% infull met minstens 8 lagen
+Print alles op 0.2mm hoogte met minstens 15% infill met minstens 8 lagen
 
 
 
