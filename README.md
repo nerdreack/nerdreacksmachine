@@ -1,4 +1,4 @@
-# Open Source F*cking machine
+# Open Source F*cking machine v1 & v2
 
 # Dit ontwerp is nog lang niet af, bespaar jezelf moeite en frustratie en begin hier nog NIET aan
 
