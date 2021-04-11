@@ -4,7 +4,7 @@
 
 ### Gereedschap
 1. Inbussleutels
-2. 3D printer (30x30 cm buidplate, kleiner kan maar is minder ideaal, er moeten dan onderdelen gesplits worden)
+2. 3D printer (40x40 cm buidplate, kleiner kan maar is minder ideaal, er moeten dan onderdelen gesplits worden)
 
 
 #### Schroefjes, Moertjes, Bouten
