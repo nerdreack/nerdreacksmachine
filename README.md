@@ -1,4 +1,4 @@
-# Open Source F*cking machine v1 & v2
+# Open Source F*cking machine v2
 
 
 ### Gereedschap
