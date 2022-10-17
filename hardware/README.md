@@ -1,6 +1,5 @@
 # Open Source F*cking machine
 
-#Dit ontwerp is nog lang niet af, bespaar jezelf moeite en frustratie en begin hier nog NIET aan
 
 ### Gereedschap
 1. Inbussleutels
