@@ -26,7 +26,7 @@
 #### Misc.
 1. 3D Print Filament, PLA of ABS
 2. Secondelijm
-3. 14" Ladegeleider https://www.amazon.com/AmazonBasics-Bearing-Drawer-Slides-Plated-Steel/dp/B01MZC15UG
+3. 14" Ladegeleider [[https://www.amazon.com/AmazonBasics-Bearing-Drawer-Slides-Plated-Steel/dp/B01MZC15UG](https://www.amazon.com/LIBERTY-941405-Soft-Close-Bearing-14-Inch/dp/B00PHL3RGQ/ref=sr_1_7)](https://www.amazon.com/LIBERTY-941405-Soft-Close-Bearing-14-Inch/dp/B00PHL3RGQ/ref=sr_1_7)
 4. Breadboard kabeltjes https://nl.aliexpress.com/item/33039596089.html
 
 ### Stap 1: Print onderdelen
